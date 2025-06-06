@@ -1,6 +1,6 @@
 # Description
 
-Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
+Please include a summary of the changes and the related issue. Please also include relevant motivation and context. Use GitHub Copilot to generate the description.
 
 Fixes # (issue)
 
@@ -18,6 +18,7 @@ Please delete options that are not relevant.
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
 
 - [ ] Deployed in Terraform workspace
+- [ ] Tested in EKS Test environments
 - [ ] Terraform Plan
 - [ ] Test cases
 
